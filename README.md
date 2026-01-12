@@ -8,7 +8,7 @@ Welcome to the 1-year Java training program repository. This repository contains
 
 ## Quick Links
 
-- **[Practice Problems](Practice%20Problem/)** - Initial practice problems and fundamentals
+- **[Practice Problems](./Practice%20Problem/)** - Initial practice problems and fundamentals
 - More assignments to be added...
 
 ## Branches
